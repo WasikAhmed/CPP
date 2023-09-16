@@ -1,3 +1,6 @@
 [submodule "Learning-CPP"]
 	path = Learning-CPP
 	url = https://github.com/WasikAhmed/Learning-CPP.git
+[submodule "DataStructures-CPP"]
+	path = DataStructures-CPP
+	url = git@github.com:WasikAhmed/DataStructures-CPP.git
