@@ -4,3 +4,6 @@
 [submodule "DataStructures-CPP"]
 	path = DataStructures-CPP
 	url = git@github.com:WasikAhmed/DataStructures-CPP.git
+[submodule "Algorithms-CPP"]
+	path = Algorithms-CPP
+	url = git@github.com:WasikAhmed/Algorithms-CPP.git
