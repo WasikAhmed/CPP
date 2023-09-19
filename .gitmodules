@@ -7,3 +7,6 @@
 [submodule "Algorithms-CPP"]
 	path = Algorithms-CPP
 	url = git@github.com:WasikAhmed/Algorithms-CPP.git
+[submodule "ProblemSolving"]
+	path = ProblemSolving
+	url = git@github.com:WasikAhmed/ProblemSolving.git
