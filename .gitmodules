@@ -10,3 +10,6 @@
 [submodule "ProblemSolving"]
 	path = ProblemSolving
 	url = git@github.com:WasikAhmed/ProblemSolving.git
+[submodule "StandardTemplateLibrary-CPP"]
+	path = StandardTemplateLibrary-CPP
+	url = git@github.com:WasikAhmed/StandardTemplateLibrary-CPP.git
